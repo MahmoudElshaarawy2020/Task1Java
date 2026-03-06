@@ -9,6 +9,7 @@ public interface Printable {
 
     void printDetails();
 
+
     void printId();
 
     void printName();
